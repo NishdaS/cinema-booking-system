@@ -1,0 +1,28 @@
+# === Java Compiled Class Files ===
+*.class
+
+# === Log Files ===
+*.log
+
+# === macOS System Files ===
+.DS_Store
+
+# === Windows System Files ===
+Thumbs.db
+
+# === Eclipse IDE Files ===
+.project
+.classpath
+.settings/
+bin/
+
+# === IntelliJ IDEA Files ===
+*.iml
+.idea/
+out/
+
+# === VSCode Workspace Files ===
+.vscode/
+
+# === Test Output or Temporary Files ===
+*.tmp
